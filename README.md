@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hey there, I'm Yetea! 🌟
 
-<!--
-**yetea/yetea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
 
-Here are some ideas to get you started:
+🔭 Currently, I'm working on building my blog/portfolio website that's out of this world! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm always learning something new and currently geeking out on everything about TypeScript. 🤓
+
+👯 I'm always up for a coding challenge and looking for new open source projects to collaborate on! Let's create some magic! 🎉
+
+💬 Ask me anything about my experience with React, TypeScript, or anything related to Frontend Development. I'm happy to share my knowledge! 🤗
+
+📫 How to reach me: yetea.dev@gmail.com
+
+⚡ Fun fact: When I'm not coding, you can find me binge-watching anime, reading manga and web novels! 📚🍿
+
+#### Projects
+
+[Portfolio Website]: My personal website where I share my thoughts on Frontend Development, programming, and other tech-related topics. It's a work in progress 🚧
+
+#### Contact me
+
+Email: yetea.dev@gmail.com
+
+Discord: yetea#7318
+
+Twitter: yetea__
+
+
+Thanks for stopping by! Let's connect and make some awesome stuff together! 🤝
