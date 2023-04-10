@@ -2,7 +2,7 @@
 
 #### About me
 
-🔭 Currently, I'm working on building my blog/portfolio website that's out of this world! 🚀
+🔭 Currently, I'm working on [Open Issues](https://github.com/yetea/open-issues). 🚀
 
 🌱 I'm always learning something new and currently geeking out on everything about TypeScript. 🤓
 
