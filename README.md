@@ -14,10 +14,6 @@
 
 ⚡ Fun fact: When I'm not coding, you can find me binge-watching anime, reading manga and web novels! 📚🍿
 
-#### Projects
-
-[Portfolio Website]: My personal website where I share my thoughts on Frontend Development, programming, and other tech-related topics. It's a work in progress 🚧
-
 #### Contact me
 
 Email: yetea.dev@gmail.com
