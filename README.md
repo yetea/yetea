@@ -2,11 +2,7 @@
 
 #### About me
 
-🌱 I'm always learning something new and currently geeking out on everything about TypeScript. 🤓
-
-👯 I'm always up for a coding challenge and looking for new open source projects to collaborate on! Let's create some magic! 🎉
-
-💬 Ask me anything about my experience with React, TypeScript, or anything related to Frontend Development. I'm happy to share my knowledge! 🤗
+🌱 I'm currently learning go. <img src="https://github.com/yetea/yetea/assets/112653889/5137b794-17ef-4cf3-9f1c-b775851c3835" alt="golang mascot" width="30"/>
 
 📫 How to reach me: yetea.dev@gmail.com
 
