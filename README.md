@@ -2,7 +2,7 @@
 
 #### About me
 
-🌱 I'm currently learning go. <img src="https://github.com/yetea/yetea/assets/112653889/5137b794-17ef-4cf3-9f1c-b775851c3835" alt="golang mascot" width="30"/>
+🌱 I'm learning go. <img src="https://github.com/yetea/yetea/assets/112653889/5137b794-17ef-4cf3-9f1c-b775851c3835" alt="golang mascot" width="30"/>
 
 📫 How to reach me: yetea.dev@gmail.com
 
