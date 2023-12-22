@@ -1,4 +1,4 @@
-### Hey there, I'm Yetea! 🌟
+### Hey there! 🌟
 
 #### About me
 
